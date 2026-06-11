@@ -9,7 +9,7 @@ L'objectif est simple : vous déposez vos images au bon endroit, puis vous lance
 
 ## 1) Télécharger Vocabix
 
-Télécharger Vocabix pour [Linux](https://github.com/ArthurHoa/vocabix/archive/refs/heads/linux.zip), [Windows] ou [Mac].
+Télécharger Vocabix pour [Linux](https://github.com/ArthurHoa/vocabix/archive/refs/heads/linux.zip), [Windows](https://github.com/ArthurHoa/vocabix/archive/refs/heads/windows.zip) ou [Mac].
 
 Attention, la première fois que vous lancerez **Vocabix**, des installations LaTex seront requises, il faudra accepter ces installations.
 Le premier lancement peut être un peu plus long, le temps d'installer les dépendances.
