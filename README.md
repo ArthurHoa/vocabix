@@ -3,9 +3,16 @@
 Vocabix permet de générer automatiquement des fiches et des cartes PDF à partir de dossiers d'images.
 L'objectif est simple : vous déposez vos images au bon endroit, puis vous lancez `Vocabix` en double-cliquant.
 
+## 0) Installer LaTeX
+
+**Vocabix** a besoin de LaTeX pour générer ses cartes, le plus simple est d'installer [MikTEX](https://miktex.org/download) (C'est très simple).
+
 ## 1) Télécharger Vocabix
 
 Télécharger Vocabix pour [Linux](https://github.com/ArthurHoa/vocabix/archive/refs/heads/linux.zip), [Windows] ou [Mac].
+
+Attention, la première fois que vous lancerez **Vocabix**, des installations LaTex seront requises, il faudra accepter ces installations.
+Le premier lancement peut être un peu plus long, le temps d'installer les dépendances.
 
 ## 2) Fonctionnement global (très simple)
 
