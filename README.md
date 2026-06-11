@@ -5,6 +5,7 @@ L'objectif est simple : vous déposez vos images au bon endroit, puis vous lance
 
 ## 1) Télécharger Vocabix
 
+Télécharger Vocabix pour [Linux](https://github.com/ArthurHoa/vocabix/archive/refs/heads/linux.zip), [Windows] ou [Mac].
 
 ## 2) Fonctionnement global (très simple)
 
