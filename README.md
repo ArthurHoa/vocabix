@@ -29,11 +29,12 @@ Ensuite, vous pouvez ajouter vos images dans les dossiers ci-dessous, puis refai
 Vocabix/
 ├── Élèves/
 │   ├── images/
-│   │   ├── Arthur.jpg
-│   │   ├── Heïdi.jpg
-│   │   ├── Marc.jpg
-│   │   ├── Suzie.jpg
-│   │   └── Virginie.jpg
+│   │   ├── Prénom 1.jpg
+│   │   ├── Prénom 2.jpg
+│   │   ├── Prénom 3.jpg
+│   │   ├── Prénom 4.jpg
+|   |   ├── Prénom 5.jpg
+│   │   └── Prénom 6.jpg
 │   └── Élèves.pdf
 ├── Outils/
 │   ├── gris/
@@ -50,39 +51,68 @@ Vocabix/
 │   │   └── tu.jpg
 │   └── Outils.pdf
 └── Thèmes/
-    ├── Marche Nordique/
+    ├── Sports/
     │   ├── Adjectifs/
-  │   │   ├── collectif.png
-  │   │   ├── dynamique.jpg
-  │   │   ├── énergique.png
-  │   │   ├── naturelle.webp
-  │   │   ├── rapide.jpg
-  │   │   ├── régulière.jpg
-  │   │   └── sportive.jpg
+    │   │   ├── agile.png
+    │   │   ├── concentré.jpg
+    │   │   ├── courageux.png
+    │   │   ├── rapide.jpg
     │   ├── Expressions/
-  │   │   ├── Allonger sa foulée.jpg
-  │   │   ├── courir après le temps.jpeg
-  │   │   ├── etre en âge.jpg
-  │   │   ├── garder le dot droit.jpg
-  │   │   ├── marcher en conscience.webp
-  │   │   └── se la couler douce.jpg
+    │   │   ├── Allonger sa foulée.jpg
+    │   │   ├── être en nage.jpg
+    │   │   ├── être rapide comme l'éclair.jpg
+    │   │   ├── jouer fair-play.webp
+    │   │   └── nager comme un dauphin.jpg
     │   ├── Noms/
-  │   │   ├── animateur.jpg
-  │   │   ├── bâtons.jpg
-  │   │   ├── chaussures.jpg
-  │   │   ├── étirements.jpg
-  │   │   ├── respiration.webp
-  │   │   └── sentier.jpeg
+    │   │   ├── arbitre_f.jpg
+    │   │   ├── arbitre_m.jpg
+    │   │   ├── ballon.jpg
+    │   │   ├── sportif_m.jpg
+    │   │   ├── sportive_f.webp
+    |   |   ├── victoire.webp
+    │   │   └── échauffements.jpeg
     │   ├── Verbes/
-  │   │   ├── accélérer.jpg
-  │   │   ├── découvrir.jpg
-  │   │   ├── discuter.jpg
-  │   │   ├── marcher.jpg
-  │   │   ├── renforcer.jpg
-  │   │   └── se dépasser.jpg
+    │   │   ├── courir.jpg
+    │   │   ├── dribbler.jpg
+    │   │   ├── lancer.jpg
+    │   │   ├── ramper.jpg
+    │   │   ├── sauter.jpg
+    │   │   └── surfer.jpg
     │   ├── logo/
-  │   │   └── logo.jpeg
-    │   └── Marche Nordique.pdf
+    │   │   └── logo.jpeg
+    │   └── Sports.pdf
+    ├── Aliments/
+    │   ├── Adjectifs/
+    │   │   ├── acide.png
+    │   │   ├── crémeux.jpg
+    │   │   ├── dur.png
+    │   │   ├── mou.webp
+    │   │   ├── salé.jpg
+    │   │   └── sucré.jpg
+    │   ├── Expressions/
+    │   │   ├── Avoir les yeux plus gros que le ventre.jpg
+    │   │   ├── Avoir une faim de loup.jpeg
+    │   │   ├── Être rassasié.jpg
+    │   │   └── Mettre du beurre dans les épinards.jpg
+    │   ├── Noms/
+    │   │   ├── beurre.jpg
+    │   │   ├── chocolat.jpg
+    │   │   ├── cookies_m_p.jpg
+    │   │   ├── dîner.jpg
+    │   │   ├── framboises_f_p.webp
+    │   │   ├── petit-déjeuner_m.webp
+    │   │   ├── soupe.webp
+    │   │   └── souper.jpeg
+    │   ├── Verbes/
+    │   │   ├── avaler.jpg
+    │   │   ├── croquer.jpg
+    │   │   ├── cuisiner.jpg
+    │   │   ├── éplucher.jpg
+    │   │   ├── mâcher.jpg
+    │   │   └── tartiner.jpg
+    │   ├── logo/
+    │   │   └── logo.jpeg
+    │   └── Aliments.pdf
     └── NOUVEAU/
         ├── Adjectifs/
         ├── Expressions/
@@ -95,7 +125,7 @@ Comme vous le voyez, il y a 3 dossiers : `Élèves`, `Outils` et `Thèmes`.
 En double cliquant sur Vocabix, trois fichiers `.pdf` sont générés. Dans `Élèves`, le fichier `Élèves.pdf` suivant est généré :
 
 <p>
-  <img src="images/%C3%89l%C3%A8ves.jpg" alt="Eleves" width="33%" />
+  <img src="images/%C3%89l%C3%A8ves.jpg" alt="Eleves" width="30%" />
 </p>
 
 Dans `Outils`, le fichier `Outils.pdf` suivant est généré :
@@ -105,13 +135,24 @@ Dans `Outils`, le fichier `Outils.pdf` suivant est généré :
   <img src="images/Outils_2.jpg" alt="Outils 2" width="30%" />
 </p>
 
-Enfin, dans `Thèmes/Marche Nordique`, le fichier `Marche Nordique.pdf` suivant est généré :
+Dans `Thèmes/Sports`, le fichier `Sports.pdf` suivant est généré :
 
 <p>
-  <img src="images/Marche_Nordique_1.jpg" alt="Marche Nordique 1" width="24%" />
-  <img src="images/Marche_Nordique_2.jpg" alt="Marche Nordique 2" width="24%" />
-  <img src="images/Marche_Nordique_3.jpg" alt="Marche Nordique 3" width="24%" />
-  <img src="images/Marche_Nordique_4.jpg" alt="Marche Nordique 4" width="24%" />
+  <img src="images/Sports1.jpg" alt="Sports 1" width="30%" />
+  <img src="images/Sports2.jpg" alt="Sports 2" width="30%" />
+  <img src="images/Sports3.jpg" alt="Sports 3" width="30%" />
+  <img src="images/Sports4.jpg" alt="Sports 4" width="30%" />
+  <img src="images/Sports5.jpg" alt="Sports 4" width="30%" />
+</p>
+
+Enfin, dans `Thèmes/Aliments`, le fichier `Aliments.pdf` suivant est généré :
+
+<p>
+  <img src="images/Aliments1.jpg" alt="Aliments 1" width="30%" />
+  <img src="images/Aliments2.jpg" alt="Aliments 2" width="30%" />
+  <img src="images/Aliments3.jpg" alt="Aliments 3" width="30%" />
+  <img src="images/Aliments4.jpg" alt="Aliments 4" width="30%" />
+  <img src="images/Aliments5.jpg" alt="Aliments 5" width="30%" />
 </p>
 
 ## 4) Détail par dossier
