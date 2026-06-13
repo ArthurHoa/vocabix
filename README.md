@@ -33,7 +33,7 @@ Vocabix/
 │   │   ├── Prénom 2.jpg
 │   │   ├── Prénom 3.jpg
 │   │   ├── Prénom 4.jpg
-|   |   ├── Prénom 5.jpg
+│   │   ├── Prénom 5.jpg
 │   │   └── Prénom 6.jpg
 │   └── Élèves.pdf
 ├── Outils/
@@ -69,7 +69,7 @@ Vocabix/
     │   │   ├── ballon.jpg
     │   │   ├── sportif_m.jpg
     │   │   ├── sportive_f.webp
-    |   |   ├── victoire.webp
+    │   │   ├── victoire.webp
     │   │   └── échauffements.jpeg
     │   ├── Verbes/
     │   │   ├── courir.jpg
@@ -171,17 +171,6 @@ En clair : vous mettez les images dans `images`, vous relancez **Vocabix**, et v
   - `Outils/orange`
   - `Outils/violet`
 - Au double-clic sur **Vocabix**, les cartes sont générées et regroupées dans : `Outils/Outils.pdf`.
-
-### Thèmes > Marche Nordique
-Dans `Thèmes/Marche Nordique`, vous avez :
-- `Adjectifs`
-- `Expressions`
-- `Noms`
-- `Verbes`
-- `logo`
-
-Quand vous remplissez ces dossiers avec vos images puis que vous double-cliquez sur **Vocabix**, le PDF est généré ici :
-- `Thèmes/Marche Nordique/Marche Nordique.pdf`
 
 ## 5) Dossier NOUVEAU
 
